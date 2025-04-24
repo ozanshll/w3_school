@@ -1,4 +1,4 @@
-#Data Types in Python
+#Data Types in Pytho
 
 # String
 x = "Hello World"
