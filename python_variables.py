@@ -8,7 +8,7 @@ height = 1.83               # Float
 name = "Akin"              # String
 greeting = 'Hello, world!'  # String
 
-# Boolean
+# BooleanS
 is_hungry = True
 is_raining = False
 
